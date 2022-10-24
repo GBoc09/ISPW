@@ -1,0 +1,11 @@
+1.	As a diver, I want to choose one diving for my adventures, so that I will have fun during my vacation.  
+2.	As a scuba diver, I want to know how much it is to rent diving equipment, so I can not bring mine from home.
+3.	As a diver, I want to know how much a one-day boat trip costs, so I can have different dive experiences.  
+4.	As a diver, I want to know if there are special prices for 3,5,7,10 dives, so I can decide how many dives to do during my vacation. 
+5.	As a scuba diver, I want to compile my logbook, so I have a complete history of my dives.  
+6.	As a diver, I want to book courses, so that I can advance with my patents. 
+7.	As a diving manager, I want to check the equipment rentals, so I always know if the equipment is available. 
+8.	As a diving manager, I want to know how many people have booked a day on a boat, so I can plan the activities respecting the safety rules. 
+9.	As a diving manager, I want to create special prices for 3,5,7,10 dives and those who come for the second time.
+10.	As a guest, I want information about the courses and prices offered by specific diving, so I can think about these activities. 
+

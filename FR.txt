@@ -1,0 +1,19 @@
+1.	The system shall mark the product with the flag "Not Available" when a customer rents the last piece.
+2.	The system shall show the login page through which they can register with a form1.
+3.	The system shall display a form2 to rent the equipment. 
+4.	The system shall provide notification of booking by email, containing the following message: "Dear customer, Your reservation number is (...) and it will be delivered to the chosen diving. Enjoy your dives."
+5.	The system shall display a map and a complete list of countries and divings. 
+6.	The system shall show the list of the available equipment for a chosen diving, showing prizes, and sizes. 
+7.	The system shall display the logbook and allow the selection of a specific dive. 
+8.	The system shall have diving data entered in the logbook1. 
+9.	The system shall show how many places are available on the chosen boat and the itinerary. 
+10.	The system shall show the reservation page for a day trip with a form3.
+11.	The system shall send an email to confirm the reservation of a day trip on the boat. The email text is: "Dear diver, your day on the boat (BOAT'S NAME) is confirmed. Please join us at the boarding on the day (MM/DD/YYYY), at hours (HH: MM). Enjoy your dive!” 
+
+
+
+
+Form1 contains the following parameters: NAME, SURNAME, DATE OF BIRTH, ADDRESS, NATIONALITY,  EMAIL, TYPE OF LICENSE, IDENTIFICATION NUMBER LICENSE. 
+Form2 contains the following parameters: NAME, SURNAME, EMAIL, A SPACE IN WHICH THE COSTUMER WRITES THE NEEDED EQUIPMENT, DIVING'S NAME, DIVING'S COUNTRY, RENTAL TIME.  
+Form3 contains the following parameters: NAME, SURNAME, EMAIL, TYPE OF LICENSE, DIVING DATE, DIVING SITE.
+Logbook1 page in which the customer inserts dive data: DIVE NUMBER, LOCATION, DATE, RATING SITE (1-10), START TIME, EXIT TIME,  MAX DEPTH, DIVE TIME, CUMULATIVE TIME, VISIBILITY, WEIGHT, EQUIPMENT(SUIT mm), WATER TEMPERATURE, AIR TEMPERATURE,  WATER'S TYPE,  O2 %, DECO TIME, SAFTY STOP TIME, SAFTY STOP DEPTH, NOTES.
