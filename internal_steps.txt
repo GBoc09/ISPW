@@ -1,0 +1,15 @@
+Name: Book a scuba course
+1.	The scuba diver requests to book a course.
+2.	The system shows the catalogue of the available course in the selected diving. 
+3.	The scuba diver selects up to 2 courses from the offering catalogue. 
+4.	The system prepares the specific form for the booking.
+5.	The system verifies the necessary prerequisites for each course and adds the scuba diver to the class, marking them as "enrolled" for that course.
+6.	The scuba diver pays for the selected activity. 
+7.	The system notifies the payment. 
+8.	The diver indicates the completion of the form.
+9.	The system saves the form and sends it to the selected diving. 
+Extension: 
+3a. Course Catalog System does not respond. The system notifies the diver and terminates the use case. 
+5a. Course entire or Diver has not fulfilled all prerequisites. The system disables the selection of that course and notifies them. 
+6a. The payment method is not supported. The system refuses payment and notifies the customer.  
+
