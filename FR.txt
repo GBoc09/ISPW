@@ -9,6 +9,8 @@
 9.	The system shall show how many places are available on the chosen boat and the itinerary. 
 10.	The system shall show the reservation page for a day trip with a form3.
 11.	The system shall send an email to confirm the reservation of a day trip on the boat. The email text is: "Dear diver, your day on the boat (BOAT'S NAME) is confirmed. Please join us at the boarding on the day (MM/DD/YYYY), at hours (HH: MM). Enjoy your dive!” 
+12.	The system shall display the form4 when a customer books a course. 
+13.	The system shall display all the courses proposed by specific diving. 
 
 
 
@@ -16,4 +18,5 @@
 Form1 contains the following parameters: NAME, SURNAME, DATE OF BIRTH, ADDRESS, NATIONALITY,  EMAIL, TYPE OF LICENSE, IDENTIFICATION NUMBER LICENSE. 
 Form2 contains the following parameters: NAME, SURNAME, EMAIL, A SPACE IN WHICH THE COSTUMER WRITES THE NEEDED EQUIPMENT, DIVING'S NAME, DIVING'S COUNTRY, RENTAL TIME.  
 Form3 contains the following parameters: NAME, SURNAME, EMAIL, TYPE OF LICENSE, DIVING DATE, DIVING SITE.
-Logbook1 page in which the customer inserts dive data: DIVE NUMBER, LOCATION, DATE, RATING SITE (1-10), START TIME, EXIT TIME,  MAX DEPTH, DIVE TIME, CUMULATIVE TIME, VISIBILITY, WEIGHT, EQUIPMENT(SUIT mm), WATER TEMPERATURE, AIR TEMPERATURE,  WATER'S TYPE,  O2 %, DECO TIME, SAFTY STOP TIME, SAFTY STOP DEPTH, NOTES.
+Form 4 contains the following parameters: NAME, SURNAME, DATE OF BIRTH, EMAIL, TYPE OF LICENSE, PERIOD IN WHICH THEM WANTS TO DO THE COURSE.
+Logbook1 page in which the customer inserts dive data: DIVE NUMBER, LOCATION, DATE, RATING SITE (1-10), START TIME, EXIT TIME,  MAX DEPTH, DIVE TIME, CUMULATIVE TIME, VISIBILITY, WEIGHT, SUIT mm, WATER TEMPERATURE, AIR TEMPERATURE,  WATER'S TYPE,  O2 %, DECO TIME, SAFTY STOP TIME, SAFTY STOP DEPTH, NOTES.
